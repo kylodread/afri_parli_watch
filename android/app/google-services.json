@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "852025280753",
+    "project_id": "afriparliwatch-13a44",
+    "storage_bucket": "afriparliwatch-13a44.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852025280753:android:eb93ccb051702794838150",
+        "android_client_info": {
+          "package_name": "com.codenamekylo.afri_parli_watch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7XpDU5hnLeIyha6H4OkQghDMDjMzunu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
